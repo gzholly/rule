@@ -1,8 +1,10 @@
 # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
 
 # google关键词
-DOMAIN-KEYWORD,pagead2
-DOMAIN-KEYWORD,googleads
+DOMAIN-KEYWORD,pagead2.googlesyndication-cn.com
+DOMAIN-KEYWORD,pagead2.googleadservices-cn.com
+DOMAIN-KEYWORD,googleads.g.doubleclick-cn.net
+
 
 # 广告关键词
 DOMAIN-KEYWORD,admarvel
