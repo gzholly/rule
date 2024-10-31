@@ -1,9 +1,9 @@
 # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
 
 # google关键词
-DOMAIN-KEYWORD,pagead2.googlesyndication-cn.com
-DOMAIN-KEYWORD,pagead2.googleadservices-cn.com
-DOMAIN-KEYWORD,googleads.g.doubleclick-cn.net
+DOMAIN-SUFFIX,googlesyndication-cn.com
+DOMAIN-SUFFIX,googleadservices-cn.com
+DOMAIN-SUFFIX,g.doubleclick-cn.net
 
 
 # 广告关键词
