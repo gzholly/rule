@@ -4,8 +4,8 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,civitai.com
-DOMAIN-SUFFIX,huggingface.co
-DOMAIN-SUFFIX.cloudfront.net
+DOMAIN-SUFFIX,huggingface.co      
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
