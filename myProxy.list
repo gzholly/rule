@@ -2,9 +2,9 @@
 # DOMAIN-KEYWORD,myProxy
 
 # 域名后缀匹配
+DOMAIN,huggingface.co
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,civitai.com
-DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,docker.com
